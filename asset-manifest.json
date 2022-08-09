@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/IrenVashenko/goit-react-hw-05-movies/static/css/main.2e737bb5.css",
+    "main.js": "/IrenVashenko/goit-react-hw-05-movies/static/js/main.6e567934.js",
+    "static/js/471.6612c9a7.chunk.js": "/IrenVashenko/goit-react-hw-05-movies/static/js/471.6612c9a7.chunk.js",
+    "static/js/804.77cca03f.chunk.js": "/IrenVashenko/goit-react-hw-05-movies/static/js/804.77cca03f.chunk.js",
+    "static/js/88.ec1e5e92.chunk.js": "/IrenVashenko/goit-react-hw-05-movies/static/js/88.ec1e5e92.chunk.js",
+    "static/js/541.44222c53.chunk.js": "/IrenVashenko/goit-react-hw-05-movies/static/js/541.44222c53.chunk.js",
+    "static/js/953.ce7590de.chunk.js": "/IrenVashenko/goit-react-hw-05-movies/static/js/953.ce7590de.chunk.js",
+    "static/js/774.559ab0ac.chunk.js": "/IrenVashenko/goit-react-hw-05-movies/static/js/774.559ab0ac.chunk.js",
+    "static/js/126.a15d3887.chunk.js": "/IrenVashenko/goit-react-hw-05-movies/static/js/126.a15d3887.chunk.js",
+    "static/js/692.512b63da.chunk.js": "/IrenVashenko/goit-react-hw-05-movies/static/js/692.512b63da.chunk.js",
+    "static/css/544.fb68114e.chunk.css": "/IrenVashenko/goit-react-hw-05-movies/static/css/544.fb68114e.chunk.css",
+    "index.html": "/IrenVashenko/goit-react-hw-05-movies/index.html",
+    "main.2e737bb5.css.map": "/IrenVashenko/goit-react-hw-05-movies/static/css/main.2e737bb5.css.map",
+    "main.6e567934.js.map": "/IrenVashenko/goit-react-hw-05-movies/static/js/main.6e567934.js.map",
+    "471.6612c9a7.chunk.js.map": "/IrenVashenko/goit-react-hw-05-movies/static/js/471.6612c9a7.chunk.js.map",
+    "804.77cca03f.chunk.js.map": "/IrenVashenko/goit-react-hw-05-movies/static/js/804.77cca03f.chunk.js.map",
+    "88.ec1e5e92.chunk.js.map": "/IrenVashenko/goit-react-hw-05-movies/static/js/88.ec1e5e92.chunk.js.map",
+    "541.44222c53.chunk.js.map": "/IrenVashenko/goit-react-hw-05-movies/static/js/541.44222c53.chunk.js.map",
+    "953.ce7590de.chunk.js.map": "/IrenVashenko/goit-react-hw-05-movies/static/js/953.ce7590de.chunk.js.map",
+    "774.559ab0ac.chunk.js.map": "/IrenVashenko/goit-react-hw-05-movies/static/js/774.559ab0ac.chunk.js.map",
+    "126.a15d3887.chunk.js.map": "/IrenVashenko/goit-react-hw-05-movies/static/js/126.a15d3887.chunk.js.map",
+    "692.512b63da.chunk.js.map": "/IrenVashenko/goit-react-hw-05-movies/static/js/692.512b63da.chunk.js.map",
+    "544.fb68114e.chunk.css.map": "/IrenVashenko/goit-react-hw-05-movies/static/css/544.fb68114e.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e737bb5.css",
+    "static/js/main.6e567934.js"
+  ]
+}
